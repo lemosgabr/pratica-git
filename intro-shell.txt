@@ -1,0 +1,4 @@
+pwd - para mostrar aonde eu estava
+ls - para exibir os arquivos e pastas do local onde eu estava
+cd - Desktop para me guiar até o local "Desktop"
+mkdir pratica-shell - para criar a pasta "pratica-shell" no local "Desktop"
