@@ -1,0 +1,5 @@
+para qualquer numero de cartas n, em posições n1, n2, n3 ...  n
+pegar carta n1 e comparar com todas as cartas possiveis
+se n1>n2--n, trocar posição das cartas
+repetir a partir da linha 2, adicionando +1 à posição n analisada e exlucindo as cartas que só passaram pelo processo de análise
+quando não houver mais carta para análise, mostrar o valor de todas as cartas
